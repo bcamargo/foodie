@@ -12,3 +12,6 @@ requests==2.5.3
 requests-oauthlib==0.4.2
 six==1.9.0
 wsgiref==0.1.2
+dj-database-url==0.3.0
+dj-static==0.0.6
+gunicorn==19.0.0
